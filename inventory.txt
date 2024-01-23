@@ -1,0 +1,13 @@
+Fiction,To Kill a Mockingbird,Harper Lee,12.99,5
+Science Fiction,1984,George Orwell,9.99,3
+Science Fiction,Dune,Frank Herbert,14.5,2
+Mystery,The Girl with the Dragon Tattoo,Stieg Larsson,14.95,2
+Fantasy,Harry Potter and the Sorcerer's Stone,J.K. Rowling,10.5,4
+Fantasy,The Hobbit,J.R.R. Tolkien,8.5,3
+Biography,The Diary of a Young Girl,Anne Frank,8.99,6
+Self-Help,The 7 Habits of Highly Effective People,Stephen R. Covey,16,1
+Science,The Elegant Universe,Brian Greene,11.99,3
+History,A People's History of the United States,Howard Zinn,13.5,2
+History,The Guns of August,Barbara W. Tuchman,11.5,3
+Thriller,Gone Girl,Gillian Flynn,12.95,2
+Thriller,The Girl on the Train,Paula Hawkins,9.99,2
